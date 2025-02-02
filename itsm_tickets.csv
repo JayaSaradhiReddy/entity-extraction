@@ -46,3 +46,128 @@ Install Groovy on V02APPWIN118,Install Groovy on the server V02APPWIN118.,instal
 Groovy Installation - V02APPWIN118,Groovy is needed for scripting on the JVM on V02APPWIN118.,install,V02APPWIN118,groovy
 Install Lua on V02APPWIN119,Install the Lua language on V02APPWIN119.,install,V02APPWIN119,lua
 Lua Installation - V02APPWIN119,Lua is needed for embedded systems on V02APPWIN119.,install,V02APPWIN119,lua
+Summary,Description,Context,Server,Software
+Uninstall Apache Tomcat on WEBSRV01,Please uninstall Apache Tomcat from the web server WEBSRV01.,uninstall,WEBSERV01,apache-tomcat
+Remove MySQL from DBSRV02,Uninstall MySQL database server from DBSRV02.,uninstall,DBSRV02,mysql
+Uninstall Node.js from APPSRV03,Remove Node.js runtime environment from the application server APPSRV03.,uninstall,APPSRV03,nodejs
+Remove Python 3.7 from DEV01,Uninstall Python version 3.7 from the development machine DEV01.,uninstall,DEV01,python37
+Uninstall Git from CODE01,Remove Git version control system from CODE01.,uninstall,CODE01,git
+Remove Docker from TEST01,Uninstall Docker containerization platform from TEST01.,uninstall,TEST01,docker
+Uninstall Jenkins from CI01,Remove Jenkins automation server from CI01.,uninstall,CI01,jenkins
+Uninstall Maven from BUILD01,Uninstall Maven build automation tool from BUILD01.,uninstall,BUILD01,maven
+Remove Gradle from BUILD02,Uninstall Gradle build system from BUILD02.,uninstall,gradle
+Uninstall Ant from LEGACY01,Remove Ant build tool from LEGACY01.,uninstall,LEGACY01,ant
+Uninstall IIS from WEBSRV02,Please uninstall Internet Information Services from the web server WEBSRV02.,uninstall,WEBSERV02,iis
+Remove Nginx from WEBSRV03,Uninstall Nginx web server from WEBSRV03.,uninstall,WEBSERV03,nginx
+Uninstall Apache HTTP Server from WEBSRV04,Remove Apache HTTP Server from WEBSRV04.,uninstall,WEBSERV04,apache
+Remove PostgreSQL from DBSRV03,Uninstall PostgreSQL database from DBSRV03.,uninstall,DBSRV03,postgresql
+Uninstall MongoDB from DBSRV04,Remove MongoDB NoSQL database from DBSRV04.,uninstall,DBSRV04,mongodb
+Uninstall Redis from CACHE01,Uninstall Redis in-memory data store from CACHE01.,uninstall,CACHE01,redis
+Remove Memcached from CACHE02,Uninstall Memcached distributed memory caching system from CACHE02.,uninstall,memcached
+Uninstall RabbitMQ from MSG01,Remove RabbitMQ message broker from MSG01.,uninstall,MSG01,rabbitmq
+Uninstall Kafka from MSG02,Uninstall Kafka distributed streaming platform from MSG02.,uninstall,kafka
+Uninstall Elasticsearch from LOG01,Remove Elasticsearch search and analytics engine from LOG01.,uninstall,LOG01,elasticsearch
+Repair Apache Tomcat on WEBSRV01,Attempt to repair the installation of Apache Tomcat on WEBSRV01.,repair,WEBSERV01,apache-tomcat
+Fix MySQL on DBSRV02,Repair the MySQL database server installation on DBSRV02.,repair,DBSRV02,mysql
+Repair Node.js on APPSRV03,Fix the Node.js runtime environment on APPSRV03.,repair,APPSRV03,nodejs
+Repair Python 3.7 on DEV01,Attempt to repair the Python 3.7 installation on DEV01.,repair,DEV01,python37
+Fix Git on CODE01,Repair the Git version control system on CODE01.,repair,CODE01,git
+Repair Docker on TEST01,Attempt to repair the Docker installation on TEST01.,repair,TEST01,docker
+Fix Jenkins on CI01,Repair the Jenkins automation server on CI01.,repair,CI01,jenkins
+Repair Maven on BUILD01,Attempt to repair the Maven installation on BUILD01.,repair,BUILD01,maven
+Fix Gradle on BUILD02,Repair the Gradle build system on BUILD02.,repair,BUILD02,gradle
+Repair Ant on LEGACY01,Attempt to repair the Ant build tool on LEGACY01.,repair,LEGACY01,ant
+Repair IIS on WEBSRV02,Fix the Internet Information Services installation on WEBSRV02.,repair,WEBSERV02,iis
+Repair Nginx on WEBSRV03,Attempt to repair the Nginx web server on WEBSRV03.,repair,WEBSERV03,nginx
+Repair Apache HTTP Server on WEBSRV04,Fix the Apache HTTP Server installation on WEBSRV04.,repair,WEBSERV04,apache
+Repair PostgreSQL on DBSRV03,Attempt to repair the PostgreSQL database on DBSRV03.,repair,DBSRV03,postgresql
+Fix MongoDB on DBSRV04,Repair the MongoDB NoSQL database on DBSRV04.,repair,DBSRV04,mongodb
+Repair Redis on CACHE01,Attempt to repair the Redis installation on CACHE01.,repair,CACHE01,redis
+Fix Memcached on CACHE02,Repair the Memcached installation on CACHE02.,repair,CACHE02,memcached
+Repair RabbitMQ on MSG01,Attempt to repair the RabbitMQ message broker on MSG01.,repair,MSG01,rabbitmq
+Fix Kafka on MSG02,Repair the Kafka installation on MSG02.,repair,MSG02,kafka
+Repair Elasticsearch on LOG01,Attempt to repair the Elasticsearch installation on LOG01.,repair,LOG01,elasticsearch
+Install MariaDB on DBSRV05,Please install MariaDB on the database server DBSRV05.,install,DBSRV05,mariadb
+Install SQLite on DEV02,Install SQLite database engine on DEV02.,install,DEV02,sqlite
+Install Microsoft SQL Server Express on DBSRV06,Install SQL Server Express on DBSRV06.,install,DBSRV06,sqlserver
+Install Oracle Database on DBSRV07,Install Oracle Database on DBSRV07.,install,DBSRV07,oracle
+Install Cassandra on DBSRV08,Install Cassandra NoSQL database on DBSRV08.,install,DBSRV08,cassandra
+Install Neo4j on DBSRV09,Install Neo4j graph database on DBSRV09.,install,DBSRV09,neo4j
+Install InfluxDB on TSDB01,Install InfluxDB time series database on TSDB01.,install,TSDB01,influxdb
+Install Grafana on MONITOR01,Install Grafana data visualization tool on MONITOR01.,install,MONITOR01,grafana
+Install Prometheus on MONITOR02,Install Prometheus monitoring system on MONITOR02.,install,MONITOR02,prometheus
+Install Zabbix on MONITOR03,Install Zabbix monitoring software on MONITOR03.,install,MONITOR03,zabbix
+Install Nagios on MONITOR04,Install Nagios monitoring system on MONITOR04.,install,MONITOR04,nagios
+Install Ansible on CM01,Install Ansible automation tool on CM01.,install,CM01,ansible
+Install Puppet on CM02,Install Puppet configuration management tool on CM02.,install,CM02,puppet
+Install Chef on CM03,Install Chef infrastructure automation tool on CM03.,install,CM03,chef
+Install Terraform on IA01,Install Terraform infrastructure as code tool on IA01.,install,IA01,terraform
+Install Kubernetes on K8S01,Install Kubernetes container orchestration platform on K8S01.,install,K8S01,kubernetes
+Install Helm on K8S02,Install Helm package manager for Kubernetes on K8S02.,install,K8S02,helm
+Install etcd on K8S03,Install etcd distributed key-value store on K8S03.,install,K8S03,etcd
+Install CoreDNS on K8S04,Install CoreDNS DNS server on K8S04.,install,K8S04,coredns
+Install Istio on K8S05,Install Istio service mesh on K8S05,install,K8S05,istio
+Uninstall MariaDB from DBSRV05,Remove MariaDB database from DBSRV05.,uninstall,DBSRV05,mariadb
+Uninstall SQLite from DEV02,Remove SQLite database engine from DEV02.,uninstall,DEV02,sqlite
+Uninstall Microsoft SQL Server Express from DBSRV06,Remove SQL Server Express from DBSRV06.,uninstall,DBSRV06,sqlserver
+Uninstall Oracle Database from DBSRV07,Remove Oracle Database from DBSRV07.,uninstall,DBSRV07,oracle
+Uninstall Cassandra from DBSRV08,Remove Cassandra NoSQL database from DBSRV08.,uninstall,DBSRV08,cassandra
+Uninstall Neo4j from DBSRV09,Remove Neo4j graph database from DBSRV09.,uninstall,DBSRV09,neo4j
+Uninstall InfluxDB from TSDB01,Remove InfluxDB time series database from TSDB01.,uninstall,TSDB01,influxdb
+Uninstall Grafana from MONITOR01,Remove Grafana data visualization tool from MONITOR01.,uninstall,MONITOR01,grafana
+Summary,Description,Context,Server,Software
+Upgrade Python on V02APPWIN100 to 3.11,Upgrade Python on V02APPWIN100 to the latest version 3.11.,upgrade,V02APPWIN100,python
+Update Java on V02APPWIN101 to JDK 17,Update the Java Development Kit on V02APPWIN101 to version 17.,upgrade,V02APPWIN101,java
+Upgrade Node.js on V02APPWIN102 to LTS,Upgrade Node.js on V02APPWIN102 to the latest Long Term Support version.,upgrade,V02APPWIN102,nodejs
+Update Ruby on V02APPWIN103 to 3.2,Update Ruby on V02APPWIN103 to version 3.2.,upgrade,V02APPWIN103,ruby
+Upgrade PHP on V02APPWIN104 to 8.2,Upgrade PHP on V02APPWIN104 to version 8.2.,upgrade,V02APPWIN104,php
+Update Go on V02APPWIN105 to 1.20,Update Go on V02APPWIN105 to version 1.20.,upgrade,V02APPWIN105,go
+Upgrade Perl on V02APPWIN106 to 5.36,Upgrade Perl on V02APPWIN106 to version 5.36.,upgrade,V02APPWIN106,perl
+Update Swift on V02APPWIN107 to latest,Update Swift on V02APPWIN107 to the latest version.,upgrade,V02APPWIN107,swift
+Upgrade Kotlin on V02APPWIN108 to 1.8,Upgrade Kotlin on V02APPWIN108 to version 1.8.,upgrade,V02APPWIN108,kotlin
+Update C++ Compiler on V02APPWIN109,Update the C++ compiler on V02APPWIN109 to the latest version.,upgrade,V02APPWIN109,c++
+Upgrade C# on V02APPWIN110 to .NET 7,Upgrade C# on V02APPWIN110 to .NET version 7.,upgrade,V02APPWIN110,csharp
+Update Visual Basic on V02APPWIN111,Update Visual Basic on V02APPWIN111 to the latest version if available.,upgrade,V02APPWIN111,visualbasic
+Upgrade R on V02APPWIN112 to latest,Upgrade R on V02APPWIN112 to the latest version.,upgrade,V02APPWIN112,r
+Update MATLAB on V02APPWIN113,Update MATLAB on V02APPWIN113 to the latest release.,upgrade,V02APPWIN113,matlab
+Upgrade Julia on V02APPWIN114 to 1.9,Upgrade Julia on V02APPWIN114 to version 1.9.,upgrade,V02APPWIN114,julia
+Update Rust on V02APPWIN115 to latest stable,Update Rust on V02APPWIN115 to the latest stable release.,upgrade,V02APPWIN115,rust
+Upgrade TypeScript on V02APPWIN116,Upgrade TypeScript on V02APPWIN116 to the latest version.,upgrade,V02APPWIN116,typescript
+Update Scala on V02APPWIN117 to 3.0,Update Scala on V02APPWIN117 to version 3.0.,upgrade,V02APPWIN117,scala
+Upgrade Groovy on V02APPWIN118,Upgrade Groovy on V02APPWIN118 to the latest version.,upgrade,V02APPWIN118,groovy
+Update Lua on V02APPWIN119,Update Lua on V02APPWIN119 to the latest version.,upgrade,V02APPWIN119,lua
+Upgrade Haskell on V02APPWIN120,Upgrade Haskell on V02APPWIN120 to the latest version.,upgrade,V02APPWIN120,haskell
+Update Apache Tomcat on WEBSRV01,Update Apache Tomcat on WEBSRV01 to the latest version.,upgrade,WEBSERV01,apache-tomcat
+Upgrade MySQL on DBSRV02,Upgrade MySQL on DBSRV02 to the latest compatible version.,upgrade,DBSRV02,mysql
+Update Nginx on WEBSRV03,Update Nginx on WEBSRV03 to the latest stable release.,upgrade,WEBSERV03,nginx
+Upgrade PostgreSQL on DBSRV03,Upgrade PostgreSQL on DBSRV03 to the latest version.,upgrade,DBSRV03,postgresql
+Update MongoDB on DBSRV04,Update MongoDB on DBSRV04 to the latest version.,upgrade,DBSRV04,mongodb
+Upgrade Redis on CACHE01,Upgrade Redis on CACHE01 to the latest stable release.,upgrade,CACHE01,redis
+Update RabbitMQ on MSG01,Update RabbitMQ on MSG01 to the latest version.,upgrade,MSG01,rabbitmq
+Upgrade Kafka on MSG02,Upgrade Kafka on MSG02 to the latest version.,upgrade,MSG02,kafka
+Update Elasticsearch on LOG01,Update Elasticsearch on LOG01 to the latest version.,upgrade,LOG01,elasticsearch
+Upgrade MariaDB on DBSRV05,Upgrade MariaDB on DBSRV05 to the latest version.,upgrade,DBSRV05,mariadb
+Update SQLite on DEV02,Update SQLite on DEV02 to the latest version.,upgrade,DEV02,sqlite
+Upgrade Microsoft SQL Server Express on DBSRV06,Upgrade SQL Server Express on DBSRV06 to the latest compatible version.,upgrade,DBSRV06,sqlserver
+Update Oracle Database on DBSRV07,Update Oracle Database on DBSRV07 to the latest release.,upgrade,DBSRV07,oracle
+Upgrade Cassandra on DBSRV08,Upgrade Cassandra on DBSRV08 to the latest version.,upgrade,DBSRV08,cassandra
+Update Neo4j on DBSRV09,Update Neo4j on DBSRV09 to the latest version.,upgrade,DBSRV09,neo4j
+Upgrade InfluxDB on TSDB01,Upgrade InfluxDB on TSDB01 to the latest version.,upgrade,TSDB01,influxdb
+Update Grafana on MONITOR01,Update Grafana on MONITOR01 to the latest version.,upgrade,MONITOR01,grafana
+Upgrade Prometheus on MONITOR02,Upgrade Prometheus on MONITOR02 to the latest version.,upgrade,MONITOR02,prometheus
+Update Zabbix on MONITOR03,Update Zabbix on MONITOR03 to the latest version.,upgrade,MONITOR03,zabbix
+Upgrade Nagios on MONITOR04,Upgrade Nagios on MONITOR04 to the latest version.,upgrade,MONITOR04,nagios
+Update Ansible on CM01,Update Ansible on CM01 to the latest version.,upgrade,CM01,ansible
+Upgrade Puppet on CM02,Upgrade Puppet on CM02 to the latest version.,upgrade,CM02,puppet
+Update Chef on CM03,Update Chef on CM03 to the latest version.,upgrade,CM03,chef
+Upgrade Terraform on IA01,Upgrade Terraform on IA01 to the latest version.,upgrade,IA01,terraform
+Update Kubernetes on K8S01,Update Kubernetes on K8S01 to the latest version.,upgrade,K8S01,kubernetes
+Upgrade Helm on K8S02,Upgrade Helm on K8S02 to the latest version.,upgrade,K8S02,helm
+Update etcd on K8S03,Update etcd on K8S03 to the latest version.,upgrade,K8S03,etcd
+Upgrade CoreDNS on K8S04,Upgrade CoreDNS on K8S04 to the latest version.,upgrade,K8S04,coredns
+Update Istio on K8S05,Update Istio on K8S05 to the latest version.,upgrade,K8S05,istio
+Upgrade Docker on TEST01,Upgrade Docker on TEST01 to the latest version.,upgrade,TEST01,docker
+Update Jenkins on CI01,Update Jenkins on CI01 to the latest version.,upgrade,CI01,jenkins
+Upgrade Maven on BUILD01,Upgrade Maven on BUILD01 to the latest version.,upgrade,BUILD01,maven
+Update Gradle on BUILD02,Update Gradle on BUILD02 to the latest version.,upgrade,BUILD02,gradle
+Upgrade Ant on LEGACY01,Upgrade Ant on LEGACY01 to the latest version.,upgrade,LEGACY01,ant
