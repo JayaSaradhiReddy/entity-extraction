@@ -4,7 +4,7 @@ import sys
 # Load trained models
 context_model = joblib.load("models/context_model.pkl")
 server_model = joblib.load("models/server_model.pkl")
-software_model = joblib.load("models/software_model.pkl")
+#software_model = joblib.load("models/software_model.pkl")
 
 def extract_entities(summary, description):
     text = summary + " " + description
@@ -12,7 +12,7 @@ def extract_entities(summary, description):
     return {
         "context": context_model.predict([text])[0],
         "server": server_model.predict([text])[0],
-        "software": software_model.predict([text])[0]
+        #"software": software_model.predict([text])[0]
     }
 
 if __name__ == "__main__":

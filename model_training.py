@@ -25,6 +25,6 @@ def train_model(target_column, filename):
 # Train models for Context, Server, and Software
 train_model("Context", "context_model.pkl")
 train_model("Server", "server_model.pkl")
-train_model("Software", "software_model.pkl")
+#train_model("Software", "software_model.pkl")
 
 print("Training completed. Models saved in 'models' directory.")
