@@ -46,7 +46,6 @@ Install Groovy on V02APPWIN118,Install Groovy on the server V02APPWIN118.,instal
 Groovy Installation - V02APPWIN118,Groovy is needed for scripting on the JVM on V02APPWIN118.,install,V02APPWIN118,groovy
 Install Lua on V02APPWIN119,Install the Lua language on V02APPWIN119.,install,V02APPWIN119,lua
 Lua Installation - V02APPWIN119,Lua is needed for embedded systems on V02APPWIN119.,install,V02APPWIN119,lua
-Summary,Description,Context,Server,Software
 Uninstall Apache Tomcat on WEBSRV01,Please uninstall Apache Tomcat from the web server WEBSRV01.,uninstall,WEBSERV01,apache-tomcat
 Remove MySQL from DBSRV02,Uninstall MySQL database server from DBSRV02.,uninstall,DBSRV02,mysql
 Uninstall Node.js from APPSRV03,Remove Node.js runtime environment from the application server APPSRV03.,uninstall,APPSRV03,nodejs
@@ -115,7 +114,6 @@ Uninstall Cassandra from DBSRV08,Remove Cassandra NoSQL database from DBSRV08.,u
 Uninstall Neo4j from DBSRV09,Remove Neo4j graph database from DBSRV09.,uninstall,DBSRV09,neo4j
 Uninstall InfluxDB from TSDB01,Remove InfluxDB time series database from TSDB01.,uninstall,TSDB01,influxdb
 Uninstall Grafana from MONITOR01,Remove Grafana data visualization tool from MONITOR01.,uninstall,MONITOR01,grafana
-Summary,Description,Context,Server,Software
 Upgrade Python on V02APPWIN100 to 3.11,Upgrade Python on V02APPWIN100 to the latest version 3.11.,upgrade,V02APPWIN100,python
 Update Java on V02APPWIN101 to JDK 17,Update the Java Development Kit on V02APPWIN101 to version 17.,upgrade,V02APPWIN101,java
 Upgrade Node.js on V02APPWIN102 to LTS,Upgrade Node.js on V02APPWIN102 to the latest Long Term Support version.,upgrade,V02APPWIN102,nodejs
