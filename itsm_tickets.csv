@@ -1,0 +1,48 @@
+Summary,Description,Context,Server,Software
+Install Python on V02APPWIN100,Please install Python on the server V02APPWIN100.,install,V02APPWIN100,python
+Python Installation Required - V02APPWIN100,Python is needed on V02APPWIN100 for data analysis.,install,V02APPWIN100,python
+Add Python to V02APPWIN100,Install the latest version of Python on server V02APPWIN100.,install,V02APPWIN100,python
+V02APPWIN100 - Python Install Request,Request to install Python on V02APPWIN100.  This is for the new reporting module.,install,V02APPWIN100,python
+Python Setup on V02APPWIN100,Please set up Python on the server V02APPWIN100.  We require version 3.9 if possible.,install,V02APPWIN100,python
+Need Python on Server V02APPWIN100,We need Python installed on V02APPWIN100 to enable the data processing scripts.,install,V02APPWIN100,python
+Install Java on V02APPWIN101,Please install Java on the server V02APPWIN101.,install,V02APPWIN101,java
+Java Installation Needed - V02APPWIN101,Java is required on V02APPWIN101 for application deployment.,install,V02APPWIN101,java
+Add Java to V02APPWIN101,Install the latest JDK on server V02APPWIN101.,install,V02APPWIN101,java
+V02APPWIN101 - Java Install Request,Request to install Java on V02APPWIN101. This is for the new web service.,install,V02APPWIN101,java
+Install Node.js on V02APPWIN102,Please install Node.js on server V02APPWIN102.,install,V02APPWIN102,nodejs
+Node.js Installation - V02APPWIN102,Node.js is required on V02APPWIN102.,install,V02APPWIN102,nodejs
+Add Node.js to V02APPWIN102,Install latest Node.js on V02APPWIN102.,install,V02APPWIN102,nodejs
+Install Ruby on V02APPWIN103,Install Ruby on the server V02APPWIN103.,install,V02APPWIN103,ruby
+Ruby Installation - V02APPWIN103,Ruby is needed on V02APPWIN103.,install,V02APPWIN103,ruby
+Install PHP on V02APPWIN104,Please install PHP on server V02APPWIN104.,install,V02APPWIN104,php
+PHP Installation - V02APPWIN104,PHP is required on V02APPWIN104 for web development.,install,V02APPWIN104,php
+Install Go on V02APPWIN105,Install the Go programming language on V02APPWIN105.,install,V02APPWIN105,go
+Go Installation - V02APPWIN105,Go is needed for the new microservice on V02APPWIN105.,install,V02APPWIN105,go
+Install Perl on V02APPWIN106,Install Perl on the server V02APPWIN106.,install,V02APPWIN106,perl
+Perl Installation - V02APPWIN106,Perl is required for legacy scripts on V02APPWIN106.,install,V02APPWIN106,perl
+Install Swift on V02APPWIN107,Install Swift on the server V02APPWIN107.,install,V02APPWIN107,swift
+Swift Installation - V02APPWIN107,Swift is needed for iOS development tools on V02APPWIN107.,install,V02APPWIN107,swift
+Install Kotlin on V02APPWIN108,Install Kotlin on the server V02APPWIN108.,install,V02APPWIN108,kotlin
+Kotlin Installation - V02APPWIN108,Kotlin is needed for Android development on V02APPWIN108.,install,V02APPWIN108,kotlin
+Install C++ on V02APPWIN109,Install the C++ compiler on V02APPWIN109.,install,V02APPWIN109,c++
+C++ Installation - V02APPWIN109,C++ is required for performance-critical applications on V02APPWIN109.,install,V02APPWIN109,c++
+Install C# on V02APPWIN110,Install C# on the server V02APPWIN110.,install,V02APPWIN110,csharp
+C# Installation - V02APPWIN110,C# is needed for .NET applications on V02APPWIN110.,install,V02APPWIN110,csharp
+Install Visual Basic on V02APPWIN111,Install Visual Basic on the server V02APPWIN111.,install,V02APPWIN111,visualbasic
+Visual Basic Installation - V02APPWIN111,Visual Basic is required for legacy applications on V02APPWIN111.,install,V02APPWIN111,visualbasic
+Install R on V02APPWIN112,Install the R language on V02APPWIN112.,install,V02APPWIN112,r
+R Installation - V02APPWIN112,R is needed for statistical computing on V02APPWIN112.,install,V02APPWIN112,r
+Install MATLAB on V02APPWIN113,Install MATLAB on the server V02APPWIN113.,install,V02APPWIN113,matlab
+MATLAB Installation - V02APPWIN113,MATLAB is required for numerical analysis on V02APPWIN113.,install,V02APPWIN113,matlab
+Install Julia on V02APPWIN114,Install the Julia language on V02APPWIN114.,install,V02APPWIN114,julia
+Julia Installation - V02APPWIN114,Julia is needed for high-performance computing on V02APPWIN114.,install,V02APPWIN114,julia
+Install Rust on V02APPWIN115,Install the Rust language on V02APPWIN115.,install,V02APPWIN115,rust
+Rust Installation - V02APPWIN115,Rust is needed for systems programming on V02APPWIN115.,install,V02APPWIN115,rust
+Install TypeScript on V02APPWIN116,Install TypeScript on the server V02APPWIN116.,install,V02APPWIN116,typescript
+TypeScript Installation - V02APPWIN116,TypeScript is needed for web development on V02APPWIN116.,install,V02APPWIN116,typescript
+Install Scala on V02APPWIN117,Install the Scala language on V02APPWIN117.,install,V02APPWIN117,scala
+Scala Installation - V02APPWIN117,Scala is needed for functional programming on V02APPWIN117.,install,V02APPWIN117,scala
+Install Groovy on V02APPWIN118,Install Groovy on the server V02APPWIN118.,install,V02APPWIN118,groovy
+Groovy Installation - V02APPWIN118,Groovy is needed for scripting on the JVM on V02APPWIN118.,install,V02APPWIN118,groovy
+Install Lua on V02APPWIN119,Install the Lua language on V02APPWIN119.,install,V02APPWIN119,lua
+Lua Installation - V02APPWIN119,Lua is needed for embedded systems on V02APPWIN119.,install,V02APPWIN119,lua
